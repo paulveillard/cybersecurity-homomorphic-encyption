@@ -6,7 +6,7 @@
 ## `About Homomorphic Encryption`
 What is [Encryption](https://github.com/paulveillard/cybersecurity-keycloak/blob/main/keycloak.md)?
 
-## Contents
+## Table of Contents
 
 - [Libraries](#libraries)
 - [Toolkits](#toolkits)
