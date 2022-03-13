@@ -6,6 +6,9 @@
 ## `About Homomorphic Encryption`
 What is [Encryption](https://github.com/paulveillard/cybersecurity-encryption)?
 
+![homomorphic-encryption](https://github.com/paulveillard/cybersecurity-homomorphic-encyption/blob/main/img/Types-of-homomorphic-encryption.png)
+
+
 ## Table of Contents
 
 - [Libraries](#libraries)
