@@ -47,6 +47,8 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [TenSEAL](https://github.com/OpenMined/TenSEAL) - Library for HE operations on tensors, built on [Microsoft SEAL](#SEAL), with a Python API.
 - <a name="tfhe">[tfhe](https://github.com/tfhe/tfhe) - Faster fully HE: Bootstrapping in less than 0.1 seconds.</a>
 
+	
+**[`^        back to top        ^`](#)**
 
 ## Toolkits
 
@@ -65,6 +67,8 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [SHEEP](https://github.com/alan-turing-institute/SHEEP) - HE evaluation platform with a set of native benchmarks and a library agnostic language.
 
 
+**[`^        back to top        ^`](#)**
+	
 ## Applications
 
 - [crypto-geofence](https://github.com/Georeactor/crypto-geofence) - Geo-fencing demo application based on Paillier scheme.
