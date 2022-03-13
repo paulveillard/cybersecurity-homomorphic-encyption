@@ -4,7 +4,7 @@
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
 ## `About Homomorphic Encryption`
-What is [Encryption](https://github.com/paulveillard/cybersecurity-keycloak/blob/main/keycloak.md)?
+What is [Encryption](https://github.com/paulveillard/cybersecurity-encryption)?
 
 ## Table of Contents
 
