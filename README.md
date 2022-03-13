@@ -106,7 +106,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 
 - [cybersecurity-cryptography](https://github.com/paulveillard/cybersecurity-cryptography)
 - [cybersecurity-encryption](https://github.com/paulveillard/cybersecurity-encryption)
-- [awesome-mpc](https://github.com/rdragos/awesome-mpc) - Multi-Party Computation.
+- [cybersecurity-decryption](https://github.com/paulveillard/cybersecurity-decryption)
 
 
 ## Contribute
