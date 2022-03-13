@@ -13,10 +13,10 @@ What is [Encryption](https://github.com/paulveillard/cybersecurity-encryption)?
 
 Homomorphic encryption includes multiple types of encryption schemes that can perform different classes of computations over encrypted data.[1] The computations are represented as either Boolean or arithmetic circuits. Some common types of homomorphic encryption are partially homomorphic, somewhat homomorphic, leveled fully homomorphic, and fully homomorphic encryption:
 
-- Partially homomorphic encryption encompasses schemes that support the evaluation of circuits consisting of only one type of gate, e.g., addition or multiplication.
-- Somewhat homomorphic encryption schemes can evaluate two types of gates, but only for a subset of circuits.
-- Leveled fully homomorphic encryption supports the evaluation of arbitrary circuits composed of multiple types of gates of bounded (pre-determined) depth.
-- Fully homomorphic encryption (FHE) allows the evaluation of arbitrary circuits composed of multiple types of gates of unbounded depth, and is the strongest notion of homomorphic encryption.
+- **Partially homomorphic encryption** encompasses schemes that support the evaluation of circuits consisting of only one type of gate, e.g., addition or multiplication.
+- **Somewhat homomorphic encryption** schemes can evaluate two types of gates, but only for a subset of circuits.
+- **Leveled fully homomorphic encryption** supports the evaluation of arbitrary circuits composed of multiple types of gates of bounded (pre-determined) depth.
+- **Fully homomorphic encryption (FHE)** allows the evaluation of arbitrary circuits composed of multiple types of gates of unbounded depth, and is the strongest notion of homomorphic encryption.
 
 
 For the majority of homomorphic encryption schemes, the multiplicative depth of circuits is the main practical limitation in performing computations over encrypted data. Homomorphic encryption schemes are inherently malleable. In terms of malleability, homomorphic encryption schemes have weaker security properties than non-homomorphic schemes.
