@@ -13,6 +13,8 @@ What is [Encryption](https://github.com/paulveillard/cybersecurity-encryption)?
 
 Homomorphic encryption includes multiple types of encryption schemes that can perform different classes of computations over encrypted data.The computations are represented as either Boolean or arithmetic circuits. Some common types of homomorphic encryption are partially homomorphic, somewhat homomorphic, leveled fully homomorphic, and fully homomorphic encryption:
 
+![homomorphic-encryption-2]()
+
 - **Partially homomorphic encryption** encompasses schemes that support the evaluation of circuits consisting of only one type of gate, e.g., addition or multiplication.
 - **Somewhat homomorphic encryption** schemes can evaluate two types of gates, but only for a subset of circuits.
 - **Leveled fully homomorphic encryption** supports the evaluation of arbitrary circuits composed of multiple types of gates of bounded (pre-determined) depth.
