@@ -103,7 +103,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [tf-encrypted](https://github.com/tf-encrypted/tf-encrypted) - Bridge between TensorFlow and the [Microsoft SEAL](#SEAL) library.
 
 
-## Databases
+## `Databases`
 
 - [CryptDB](https://github.com/CryptDB/cryptdb) - Protecting confidentiality with encrypted query processing.
 - [encrypted-mongodb](https://github.com/pdroalves/encrypted-mongodb) - Wrapper on MongoDB's Python driver that enables to query encrypted data.
@@ -112,7 +112,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [ZeroDB](https://github.com/zerodb/zerodb) - E2E encrypted database using proxy re-encryption.
 
 
-## Resources
+## `Resources`
 
 - [Barak, Boaz](https://intensecrypto.org/public/lec_15_FHE.html). Chapter about FHE in Barak's introductory book to Cryptography, used for Harvard CS 127.
 - [Barthelemy, Lucas](https://blog.quarkslab.com/a-brief-survey-of-fully-homomorphic-encryption-computing-on-encrypted-data.html). Brief survey of Fully HE. 2016.
